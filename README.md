@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Ravindu!;Data+Science+UnderGrad%F0%9F%93%8A;Based+in+Polgahawela,Sri+Lanka;Aiming+for+Perfection." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Hey+there,+I'm+Ravindu!;Data+Science+UnderGrad%F0%9F%93%8A;Based+in+Polgahawela,Sri+Lanka.;Aiming+for+Perfection." alt="Typing SVG" />
 </a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ravinduwara)
@@ -14,14 +14,14 @@
 
 ---
 
-### --About Me--
-Data Science @ Sri Lanka | Logic Meets Design
+### -- About Me ツ --
+♜ Data Science @ Sri Lanka | Logic Meets Design | Straight To The Point.
 
-🔭 Building: High-efficiency data models & sleek web interfaces.
+• 🔭 Building: High-efficiency data models & sleek web interfaces.
 
-🌱 Mastering: Python, R, and the art of Database Management.
+• 🌱 Mastering: Python, R, and the art of Database Management.
 
-⚡ Standard: My code is as optimized as my hardware. Perfection isn't a goal; it's the baseline.
+• ⚡ Standard: My code is as optimized as my hardware. Perfection isn't a goal; it's the baseline.
 
 ---
 
