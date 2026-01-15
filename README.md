@@ -14,12 +14,14 @@
 
 ---
 
-### 💫 About Me
-I am a **Data Science undergraduate** based in **Sri Lanka** with a passion for precision and efficiency. I blend technical analysis with creative design to build functional and aesthetic solutions.
+### --About Me--
+Data Science @ Sri Lanka | Logic Meets Design
 
-- 🔭 **Currently working on:** Data Science projects, Creative Design portfolios & along with other sorts of Websites .
-- 🌱 **Currently learning:** Advanced Python, Database Management, and R.
-- ⚡ **Fun fact:** I treat my code optimization with the same perfectionism as my PC hardware specs!
+🔭 Building: High-efficiency data models & sleek web interfaces.
+
+🌱 Mastering: Python, R, and the art of Database Management.
+
+⚡ Standard: My code is as optimized as my hardware. Perfection isn't a goal; it's the baseline.
 
 ---
 
