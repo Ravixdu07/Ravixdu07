@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Ravindu!;Data+Science+Undergraduate+%F0%9F%93%8A;Creative+Designer+%F0%9F%8E%A8;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Always+Aiming+for+Perfection+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Ravindu!;Data+Science+Undergraduate+%F0%9F%93%8A;Creative+Designer+%F0%9F%8E%A8;Based+in+Polgahawela+,+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Always+Aiming+for+Perfection+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ravinduwara)
