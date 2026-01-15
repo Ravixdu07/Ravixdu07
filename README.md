@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Ravindu!;Data+Science+Undergraduate+%F0%9F%93%8A;Creative+Designer+%F0%9F%8E%A8;Based+in+Polgahawela+,+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Always+Aiming+for+Perfection+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Ravindu!;Data+Science+Undergraduate+%F0%9F%93%8A;Creative+Designer+%F0%9F%8E%A8;Based+in+Polgahawela,+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Always+Aiming+for+Perfection+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ravinduwara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindu-induvara-2a6bb9319)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Movie_Downtown)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravindusenewirathna@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ravinduwara.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://ravinduwara.dev)
 
 </div>
 
@@ -56,9 +56,9 @@ I am a **Data Science undergraduate** based in **Sri Lanka** with a passion for 
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ravixdu07&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ravixdu07&theme=dark&hide_border=true&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ravixdu07&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravixdu07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravixdu07&theme=dark&hide_border=true&include_all_commits=true&layout=compact)
 
 <br>
 
