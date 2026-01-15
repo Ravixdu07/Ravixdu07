@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindu-induvara-2a6bb9319)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Movie_Downtown)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravindusenewirathna@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://ravinduwara.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](C:\Users\INSIGHT\Downloads\My Websites\AI Portfolio\Index.html)
 
 </div>
 
@@ -17,9 +17,9 @@
 ### 💫 About Me
 I am a **Data Science undergraduate** based in **Sri Lanka** with a passion for precision and efficiency. I blend technical analysis with creative design to build functional and aesthetic solutions.
 
-- 🔭 **Currently working on:** Data Science projects & Creative Design portfolios.
+- 🔭 **Currently working on:** Data Science projects, Creative Design portfolios & along with other sorts of Websites .
 - 🌱 **Currently learning:** Advanced Python, Database Management, and R.
-- ⚡ **Fun fact:** I treat my code optimization with the same perfectionism as my PC hardware specs.
+- ⚡ **Fun fact:** I treat my code optimization with the same perfectionism as my PC hardware specs!
 
 ---
 
