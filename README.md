@@ -1,69 +1,57 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Hey+there,+I'm+Ravindu!;Data+Science+UnderGrad%F0%9F%93%8A;From+Polgahawela,Sri+Lanka%F0%9F%8C%B4;Aiming+for+Perfection." alt="Typing SVG" />
-</a>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,14354C,31A8FF&height=250&section=header&text=Ravindu&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Logic%20Architect%20%7C%20Design&descAlignY=55&descAlign=50)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ravinduwara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindu-induvara-2a6bb9319)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Movie_Downtown)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravindusenewirathna@gmail.com)
+<br/>
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=d62976)](https://instagram.com/ravinduwara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/ravindu-induvara-2a6bb9319)
+[![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=c14438)](mailto:ravindusenewirathna@gmail.com)
 
 </div>
 
 ---
 
-### -- About Me ツ --
-♜ Data Science @ Sri Lanka | Logic Meets Design | Straight To The Point.
+### ⚙️ System Specifications: `Ravindu_v2.6`
+> **STATUS:** System running fast. Precision mode active.
 
-• 🔭 Building: High-efficiency data models & sleek web interfaces.
-
-• 🌱 Mastering: Python, R, and the art of Database Management.
-
-• ⚡ Standard: My code is as optimized as my hardware. Perfection isn't a goal; it's the baseline.
+| Component | Specification |
+| :--- | :--- |
+| **Motherboard** | Gen Z Architecture (Sri Lanka Edition 🇱🇰) |
+| **Processor** | `Data_Science_Core_i9` (Undergraduate) |
+| **GPU** | NVIDIA RTX Enabled (Adobe Creative Suite Support) |
+| **Memory** | **Volatile [ADHD]** — *Optimized for hyperfocus bursts* ⚡ |
+| **OS** | `No_BS_Linux` (Kernel: Logic & Efficiency) |
+| **Storage** | Infinite Database Knowledge (Loading...) |
+| **Current Task** | Building High-Efficiency Models & Smoooth UIs |
 
 ---
+
+### 🛠 Installed Drivers (Tech Stack)
+<div align="center">
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,c,mysql,firebase,html,css,js,vercel,git,ps,pr,ae,xd,linux&perline=8&theme=dark" />
+  </a>
+</div>
+
+---
+
+### 📊 Performance Benchmarks
 
 <div align="center">
 
-### 💻 Tech & Tools
+<img src="https://github-readme-stats.vercel.app/api?username=Ravixdu07&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravixdu07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
 
-**Languages & Development**
-<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<br/>
 
-**Creative Suite**
-<br>
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravixdu07&theme=radical&hide_border=true&background=0d1117" alt="streak stats" />
 
-**Interests & Hardware**
-<br>
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+</div>
 
----
+<br/>
 
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Ravixdu07&theme=dark&hide_border=true&include_all_commits=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ravixdu07&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravixdu07&theme=dark&hide_border=true&include_all_commits=true&layout=compact)
-
-<br>
-
-![](https://visitcount.itsvg.in/api?id=Ravixdu07&icon=0&color=0)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,14354C,31A8FF&height=100&section=footer" width="100%">
 </div>
