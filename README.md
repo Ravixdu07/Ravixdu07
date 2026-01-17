@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,14354C,31A8FF&height=250&section=header&text=Ravindu&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Logic%20Architect%20%7C%20Design&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,14354C,31A8FF&height=250&section=header&text=Ravindu&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Video%20Editor%20%7C%20Design&descAlignY=55&descAlign=50)
 
 <br/>
 
