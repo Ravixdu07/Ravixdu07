@@ -12,18 +12,13 @@
 
 ---
 
-### ⚙️ System Specifications: `Ravindu_v2.6`
-> **STATUS:** System running fast. Precision mode active.
+### About Me ツ
 
-| Component | Specification |
-| :--- | :--- |
-| **Motherboard** | Gen Z Architecture (Sri Lanka Edition 🇱🇰) |
-| **Processor** | `Data_Science_Core_i7` (Undergraduate) |
-| **GPU** | NVIDIA RTX Enabled (Adobe Creative Suite Support) |
-| **Memory** | **Volatile [ADHD]** — *Optimized for Logical Perfeciton* ⚡ |
-| **OS** | `No_BS_Linux` (Kernel: Logic & Efficiency) |
-| **Storage** | Infinite Database Knowledge (Loading...) |
-| **Current Task** | Building High-Efficiency Models & Smoooth UIs |
+• I produce projects that are pleasing to the Eye👀.
+
+• Oh! And Yeah, I do Vibe Coding often. <br/>
+(It really becomes a <i>VIBE</i>, when you know what you're doing.🙂‍↕️) 
+
 
 ---
 
