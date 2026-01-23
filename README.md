@@ -2,7 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,14354C,31A8FF&height=250&section=header&text=Ravindu&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Video%20Editor%20%7C%20Design&descAlignY=55&descAlign=50)
 
-<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=d62976)](https://instagram.com/ravinduwara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/ravindu-induvara-2a6bb9319)
