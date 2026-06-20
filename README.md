@@ -23,10 +23,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ravixdu07&label=PROFILE%20VIEWS&style=for-the-badge)
 
-
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,14354C,31A8FF&height=100&section=footer" width="100%">
-</div>
