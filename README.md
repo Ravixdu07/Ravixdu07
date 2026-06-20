@@ -13,10 +13,9 @@
 
 ### About Me ツ
 
-• I produce projects that are pleasing to the Eye👀.
+• I produce projects that are pleasing to the Eye👀 WITH the Core Logic being Intact.
 
-• Oh! And Yeah, I do Vibe Coding often. <br/>
-(It really becomes a <i>VIBE</i>, when you know what you're doing.🙂‍↕️) 
+• Basically I Code, Game and do a bit of Socializing.
 
 
 ---
