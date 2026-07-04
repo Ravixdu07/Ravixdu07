@@ -13,7 +13,7 @@
 
 ### About Me ツ
 
-• I produce projects that are pleasing to the Eye👀 WITH the Core Logic being Intact.
+• Lowkey obsessed with building digital experiences that feel smooth, look clean, and just... work.
 
 • Basically I Code, Game and do a bit of Socializing.
 
