@@ -1,21 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1117&text=Ravinduwara&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Building%20clean%20software%20and%20turning%20data%20into%20insights.&descAlignY=70" />
-
-<p>
-<a href="https://linkedin.com/in/ravindu-induvara-2a6bb9319">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ravindusenewirathna@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/ravinduwara">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1117&text=Ravinduwara&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Building%20Eye%20Appealing%20Projects%20and%20Staying%20True%20to%20the%20Logic.&descAlignY=70" />
 
 </div>
 
