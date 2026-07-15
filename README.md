@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1117&text=Ravinduwara&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=Building%20Eye%20Appealing%20Projects%20and%20Staying%20True%20to%20the%20Logic.&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0D1117&text=Ravinduwara&fontColor=ffffff&fontSize=48" />
 
 </div>
 
